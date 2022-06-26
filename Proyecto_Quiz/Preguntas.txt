@@ -1,0 +1,50 @@
+facil; 1; Fue uno de los personajes mas importantes durante la independencia de México; a. Benito Juárez; b. Francisco I. Madero; c. Gral.Ignacio Zaragoza; d. Miguel Hidalgo y Costilla
+facil; 2; ¿En qué continente está Ecuador?; a. Europa; b. Asia; c. America; d. Africa
+facil; 3; ¿De qué colores es la bandera de México?; a. rojo, blanco y azul ; b. verde, blanco y rojo; c. negro, rojo, amarillo;  d. blanco y rojo
+facil; 4; ¿En qué país se encuentra la torre de Pisa?; a. Italia; b. Francia; c. Grecia; d. Escocia
+facil; 5; ¿Quién es el autor de el Don Quijote de la Mancha?; a. Gabriel García Marquez; b. Miguel de Cervantes; c. Charles Dickens; d. Julio Cortázar
+facil; 6; ¿En que año llegó Cristóbal Colón a América?; a. 1400; b. 1510; c. 1390; d. 1492
+facil; 7; Es el presidente actual de los Estados Unidos Mexicanos; a. Andres Manuel Lopez Obrador; b. Donald Trump; c. Enrique Peña Nieto; d. Barack Obama
+facil; 8; Es el tercer planeta del sistema solar con respecto a la distancia que hay de éste al Sol; a. Venus; b. Mercurio; c. Tierra; d. Marte
+facil; 9; ¿Cuál es el país con mayor extensión territorial del mundo?; a. China; b. Rusia; c. Estados Unidos; d. Alaska 
+facil; 10; ¿Cuántas patas tiene la araña?; a. 10; b. 7; c. 8; d. 5
+facil; 11; Completa el refran: "Camaron que se duerme..." ; a. se lo lleva la corriente; b. amanece en el coctel; c. despierta en el rio; d. se pierde 
+facil; 12; En la pelicula "Pinocho", ¿Que animal representaba la voz de la conciencia del protagonista?; a. burro; b. grillo; c. mariposa; d. zorro  
+facil; 13; En la pelicula "Las Cronicas de Narnia", ¿Cúal de los hermanos se va con la bruja blanca?; a. Edmund; b. Lucy; c. Peter; d.Susan
+facil; 14; ¿Cuál es la capital de Dinamarca?; a. Berlín; b. Caracas; c. Atenas; d. Copenhague
+facil; 15; ¿Cuántos años tiene un lustro?; a. 15; b. 5; c. 2; d. 7
+facil; 16; Rama de la Biología que se encarga del estudio de los animales; a. Botanica; b. Taxonomia; c. Zoologia; d. Microbiología
+facil; 17; Es el resultado de la siguiente operación: (3*10)/5+8/2; a. 10; b. 7; c. 4; d. 9  
+facil; 18; Es el valor de Pi; a.3.0019; b. 3.1020; c. 3.1416; d. 3.1819
+facil; 19; ¿Quién dijo “yo sólo sé que no se nada”?; a. Pitagoras; b. Sócrates; c. Platón; d. Sófocles
+facil; 20; No forma parte de una de las cartas de la loteria mexicana; a. La muerte; b. La dama; c. El borracho; d. La cucaracha 
+normal; 1; ¿En que año terminó la 2da. Guerra Mundial?; a. 1939; b. 1950; c. 1945; d. 1920
+normal; 2; ¿Cual es el verdadero nombre de Pancho Villa?; a. Doroteo Arango; b. Francisco Villa; c. Francisco Huerta; d. Pancho Villa
+normal; 3; ¿Cuál fue el primer metal que empleó el hombre?; a. Acero; b. Oro; c. Cobre; d. Plata
+normal; 4; ¿Cuál es la lengua más hablada en el mundo?; a. Inglés; b. Ruso; c. Aleman; d. Chino Mandarín
+normal; 5; ¿Cómo se llama el triángulo que tiene sus tres lados iguales?; a. equilatero; b. escaleno; c. isósceles; d. rectangulo 
+normal; 6; ¿Cuántos planetas tiene el sistema solar?; a. 10; b. 6; c. 8; d. 7
+normal; 7; ¿Cuántos dientes tiene una persona adulta?; a. 40; b. 32; c. 45; d.28
+normal; 8; ¿Cuándo empezó la Primera Guerra Mundial?; a. 1910; b. 1920; c. 1914; d. 1916
+normal; 9; Autor de la pintura "La ultima cena".; a. Leonardo Da Vinci; b. Pablo Picasso; c. Vincent Van Gogh; d. Edvard Munch 
+normal; 10; ¿En que año se da la caída de Tenochtitlan?; a. 1500, b. 1521; c. 1490; d.1520
+normal; 11; Presidente de México que duro 30 años en el poder.; a. Antonio López de Santa Anna; b.Sebastian Lerdo de Tejada; c. Porfirio Diaz; d. Francisco I. Madero
+normal; 12; ¿Quién era el dios romano de la guerra?; a. Ares; b. Jupiter; c. Belerofonte; d. Marte  
+normal; 13; Es el dios del inframundo segun la mitología mexica; a. Mictlantecuhtli; b. Ometéotl; c. Tezcatlipoca; d. Tonatiuh 
+normal; 14; Aproximadamente, ¿qué porcentaje de la superficie de la Tierra es agua?; a. 10%; b. 50%; c. 70%; d. 90% 
+normal; 15; Idioma oficial de Brasil; a. Brasileño; b. Francés; c. Inglés; d. Portugués
+dificil; 1; Según la leyenda, ¿cómo murió el Papa Adriano IV en 1159?; a. Tragándose una mosca; b. Cayéndose de un balcón; c. Chocándo contra una puerta; d. Cayéndose de un caballo 
+dificil; 2; ¿En qué año murió Bob Marley?; a. 1981; b. 1986; c. 1991; d. 2003 
+dificil; 3; Escritor mexicano, autor del libro "Las batallas en el desierto"; a.José Emilio Pacheco; b. Juan Rulfo; c. Octavio Paz; d. Juan José Arreola 
+dificil; 4; Inventor mexicano que creo la televisión a color; a. Luis Ernesto Miramontes; b. Guillermo Gonzalez Camarena; c. Julián Carrillo; d. Heberto Castillo Martínez 
+dificil; 5; ¿Cuál es el nombre de la 'herramienta' necesaria para jugar al billar?; a. Palo; b. Snooker; c. Bubingo; d. Taco
+dificil; 6; ¿Cuál es el estado estadounidense más cercano a la antigua Unión Soviética?; a. Alaska; b. California; c. Florida; d. Texas 
+dificil; 7; ¿Qué parte del cuerpo produce insulina?; a. El hígado; b. El bazo; c. El páncreas; d. El timo 
+dificil; 8; ¿Qué animal es la drosophila?; a. Una rata; b. Una mosca; c. Un conejillo de Indias; d. Una cabra 
+dificil; 9; ¿Cuántas sílabas forman un haiku?; a. 14; b. 17; c. 15; d. 16 
+dificil; 10; En la serie animada "Trollhunters", ¿que objeto utiliza el protagonista para transformarse?; a. Una espada; b. Un reloj; c. Un amuleto; d. Una joya
+dificil; 11; ¿Cómo se denomina el hueso blando, blanco y elástico?; a. Músculo; b. Vena; c. Vaso sanguíneo; d. Cartílago 
+dificil; 12; ¿En qué ciudad se encuentra el Museo del Louvre?; a. Londres; b. Milán; c. Madrid; d. París 
+dificil; 13; Las pirámides de Guiza forman parte del: ; a. Arte de la Edad Contemporánea; b. Arte Antiguo; c. Arte de la Edad Media; d. Arte Clásico 
+dificil; 14; En la pelicula "El código Da Vinci", ¿que resulto ser el santo grial?; a. el cuerpo de Maria Magdalena; b. Un caliz; c. Un lugar; d. Ninguna de las anteriores 
+dificil; 15; ¿En qué año comenzó la invasión musulmana en la Península Ibérica?; a. 729; b. 620; c. 645; d. 711 

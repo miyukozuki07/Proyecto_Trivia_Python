@@ -1,0 +1,50 @@
+facil; 1; Fue uno de los personajes mas importantes durante la independencia de México; d
+facil; 2; ¿En qué continente está Ecuador?; c
+facil; 3; ¿De qué colores es la bandera de México?; b
+facil; 4; ¿En qué país se encuentra la torre de Pisa?; a
+facil; 5; ¿Quién es el autor de el Don Quijote de la Mancha?; b
+facil; 6; ¿En que año llegó Cristóbal Colón a América?; d
+facil; 7; Es el presidente actual de los Estados Unidos Mexicanos; a
+facil; 8; Es el tercer planeta del sistema solar con respecto a la distancia que hay de éste al Sol; c
+facil; 9; ¿Cuál es el país con mayor extensión territorial del mundo?; b
+facil; 10; ¿Cuántas patas tiene la araña?; c
+facil; 11; Completa el refran: "Camaron que se duerme..." ; a
+facil; 12; En la pelicula "Pinocho", ¿Que animal representaba la voz de la conciencia del protagonista?; b
+facil; 13; En la pelicula "Las Cronicas de Narnia", ¿Cúal de los hermanos se va con la bruja blanca?; a
+facil; 14; ¿Cuál es la capital de Dinamarca?; d
+facil; 15; ¿Cuántos años tiene un lustro?; b
+facil; 16; Rama de la Biología que se encarga del estudio de los animales; c
+facil; 17; Es el resultado de la siguiente operación: (3*10)/5+8/2; a 
+facil; 18; Es el valor de Pi; c
+facil; 19; ¿Quién dijo “yo sólo sé que no se nada”?; b
+facil; 20; No forma parte de una de las cartas de la loteria mexicana; d
+normal; 1; ¿En que año terminó la 2da. Guerra Mundial?; c
+normal; 2; ¿Cual es el verdadero nombre de Pancho Villa?; a
+normal; 3; ¿Cuál fue el primer metal que empleó el hombre?; c
+normal; 4; ¿Cuál es la lengua más hablada en el mundo?; d
+normal; 5; ¿Cómo se llama el triángulo que tiene sus tres lados iguales?; a
+normal; 6; ¿Cuántos planetas tiene el sistema solar?; c
+normal; 7; ¿Cuántos dientes tiene una persona adulta?; b
+normal; 8; ¿Cuándo empezó la Primera Guerra Mundial?; c
+normal; 9; Autor de la pintura "La ultima cena".; a
+normal; 10; ¿En que año se da la caída de Tenochtitlan?; b
+normal; 11; Presidente de México que duro 30 años en el poder.; c
+normal; 12; ¿Quién era el dios romano de la guerra?; d
+normal; 13; Es el dios del inframundo segun la mitología mexica; a
+normal; 14; Aproximadamente, ¿qué porcentaje de la superficie de la Tierra es agua?; c
+normal; 15; Idioma oficial de Brasil; d
+dificil; 1; Según la leyenda, ¿cómo murió el Papa Adriano IV en 1159?; a
+dificil; 2; ¿En qué año murió Bob Marley?; a
+dificil; 3; Escritor mexicano, autor del libro "Las batallas en el desierto"; a
+dificil; 4; Inventor mexicano que creo la televisión a color; b
+dificil; 5; ¿Cuál es el nombre de la 'herramienta' necesaria para jugar al billar?; d
+dificil; 6; ¿Cuál es el estado estadounidense más cercano a la antigua Unión Soviética?; a
+dificil; 7; ¿Qué parte del cuerpo produce insulina?; c
+dificil; 8; ¿Qué animal es la drosophila?; b
+dificil; 9; ¿Cuántas sílabas forman un haiku?; b
+dificil; 10; En la serie animada "Trollhunters", ¿que objeto utiliza el protagonista para transformarse?; c
+dificil; 11; ¿Cómo se denomina el hueso blando, blanco y elástico?; d
+dificil; 12; ¿En qué ciudad se encuentra el Museo del Louvre?; d
+dificil; 13; Las pirámides de Guiza forman parte del: ; b
+dificil; 14; En la pelicula "El código Da Vinci", ¿que resulto ser el santo grial?; a
+dificil; 15; ¿En qué año comenzó la invasión musulmana en la Península Ibérica?; d
